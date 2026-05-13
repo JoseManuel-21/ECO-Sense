@@ -51,19 +51,6 @@ The system improved environmental data interpretation through intelligent proces
 
 The project was recognized for its technical innovation and practical impact during InnovaTec Morelia 2025.
 
----
-
-## Screenshots
-
-> Add screenshots of:
->
-> - Dashboard
-> - Charts
-> - System architecture
-> - Data visualization
-
----
-
 ## Note
 
 The original source code is private due to collaborative and academic restrictions.
